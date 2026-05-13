@@ -32,3 +32,6 @@ En el caso de esta web, como podemos observar, es bastante accesible tanto en m�
 Para la parte de aceptar las cookies en la web es muy notoria la “notificación” ya que sale en colores importantes y en gran tamaño en la parte inferior de la web para así poder aceptarlas o rechazarlas sin problema alguno.
 
 No usa colores oscuros para forzar al usuario a aceptarlas, el fondo es un color negro mientras que el botón es un color anaranjado como se muestra en la imagen:
+
+<img width="538" height="71" alt="image" src="https://github.com/user-attachments/assets/828727b4-7ebd-4bb3-84a4-b86ab619b7a5" />
+
