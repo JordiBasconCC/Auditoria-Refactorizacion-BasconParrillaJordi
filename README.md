@@ -11,6 +11,7 @@ Aunque está bastante bien (mejor que el 85% de todas las webs a nivel mundial c
 Viendo la herramienta de desarrollador de google he podido apreciar algunos elementos de la web que tienen un mayor peso al abrir e interactuar con la web, son los siguientes:
 
 > **1.-** Imágenes en el apartado de Carta: las imágenes en el apartado del menú están siempre cargadas y no están en un formato correcto ya que se encuentran en jpg.
+> 
 > **2.-** Video de fondo: al abrir la web se puede observar un video que se reproduce nada más abrir la web, en búcle y cargado continuamente.
 
 ## Fase 2: Dimensión Social y Equidad (S)
