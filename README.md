@@ -18,3 +18,12 @@ Viendo la herramienta de desarrollador de google he podido apreciar algunos elem
 Realizaremos un test de accesibilidad desde la propia herramienta que nos proporciona google para comprobar cómo tan accesible es a personas con alguna discapacidad.
 
 <img width="473" height="198" alt="image" src="https://github.com/user-attachments/assets/f815ac03-6841-4399-80da-50ca84e7f0ac" />
+
+En el caso de esta web, como podemos observar, es bastante accesible tanto en móvil como en sobremesa pero sigue teniendo algunos inconvenientes notables que mencionare a continuación:
+
+1.- No tiene una opción para personas con discapacidad visual completa, por ejemplo, lectura de precios y nombres, sin ello estas personas no pueden saber absolutamente nada de esta web.
+
+2.- Hay algunos textos, imágenes y botones que no se diferencian lo suficientemente bien como para que algunas personas con discapacidad visual reducida no puedan diferenciarlos del fondo o de otros elementos.
+
+<img width="213" height="56" alt="image" src="https://github.com/user-attachments/assets/650e9958-1cf2-472b-a08a-946323547f5c" />
+
