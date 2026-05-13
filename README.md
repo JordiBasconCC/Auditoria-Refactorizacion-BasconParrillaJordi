@@ -60,5 +60,16 @@ No nos quedaremos únicamente en encontrar errores de optimización y transparen
 
 > Además utiliza google fonts, que podría eliminarse fácilmente y utilizar css para dar el estilo necesario al texto.
 
-> Además se puede observar una gran cantidad de etiquetas de redes sociales, estas no afectan directamente al rendimiento pero son innecesarias así que podrían eliminarse
+> También se puede observar una gran cantidad de etiquetas de redes sociales, estas no afectan directamente al rendimiento pero son innecesarias así que podrían eliminarse
+
+### Reflexión sobre la Paradoja de Jevons.
+
+Como dice la paradoja de Jevons, al optimizar la web y cargar mucho más rápido podríamos atraer a muchos más usuarios. Para que este éxito no anule el ahorro energético que conseguimos con las modificaciones anteriores podemos adoptar algunos habitos como pueden ser:
+
+> Establecer un límite de peso, por ejemplo 500kb, si la web supera ese peso al añadir una nueva funcionalidad estáis obligados a optimizarla para no pasarte del límite establecido.
+
+> En vez de que la web se cargue para cada usuario podemos utilizar generadores de sitios estáticos, que generan un archivo. Cuando un usuario intenta entrar a la web se le proporciona este archivo y así no cargamos la web.
+
+> También debemos evitar el scroll infinito y refrescos de la página automáticos, haciendo que no genere peticiones extra.
+
 
