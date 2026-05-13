@@ -37,4 +37,9 @@ No usa colores oscuros para forzar al usuario a aceptarlas, el fondo es un color
 
 <img width="538" height="71" alt="image" src="https://github.com/user-attachments/assets/828727b4-7ebd-4bb3-84a4-b86ab619b7a5" />
 
+En el caso de esta web no tiene un formulario como tal, a la hora de contactar con ellos únicamente disponen de su número de teléfono, correo electrónico y dirección como se ve en la imagen:
+
+<img width="458" height="373" alt="image" src="https://github.com/user-attachments/assets/8a1bdd90-b2bc-4612-95e6-e7998ee46b1f" />
+
+Entonces en mi caso la web no pide ningún dato al usuario 
 
