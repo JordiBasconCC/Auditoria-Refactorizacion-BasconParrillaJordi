@@ -44,3 +44,9 @@ En el caso de esta web no tiene un formulario como tal, a la hora de contactar c
 
 Entonces en mi caso la web no pide ningún dato al usuario 
 
+## Fase 4: Propuesta de Refactorización (Green Coding)
+
+No nos quedaremos únicamente en encontrar errores de optimización y transparencia, debemos darles solución, por lo que a continuación dejo algunas propuestas:
+
+> 1.- Como antes comenté las imágenes estaban en formato .jpg que no es el más adecuado para webs, así que todas las imágenes las convertiremos a WebP ya que ofrece una mayor compresión de los mismos archivos reduciendo así el peso de las imágenes entre un 25% y un 35% sin perder nada de calidad, con eso ofreceremos una mejor experiencia al usuario y daremos velocidad a la web (sobre todo se notará en dispositivos móviles).  
+> Para los videos (como el que se vé nada más entrar a la web) utilizaremos MP4 con códec H.264 ya que tiene un gran equilibrio entre calidad y peso del archivo. Siendo compatible a nivel mundial con todos los navegadores.
