@@ -72,4 +72,4 @@ Como dice la paradoja de Jevons, al optimizar la web y cargar mucho más rápido
 
 > También debemos evitar el scroll infinito y refrescos de la página automáticos, haciendo que no genere peticiones extra.
 
-
+## Fase 4: Propuesta de refactorización
