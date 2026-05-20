@@ -82,6 +82,10 @@ Para comenzar con la refactorización de la web de SmokedBurguer se optimizarán
 
 Existen partes del código que en ningún momento se utilizan o que pueden ser sustituidas por alguna opción menos pesada para aumentar la velocidad de la web. Para ello el código ha sido revisado por completo y se ha ido eliminando todas estas funciones inservibles o ineficientes.
 
+Antes de terminar cambiaremos el código para utilizar html semántico, mejorar la privacidad y mejorar la accesibilidad y la navegación.
+
+Por último cambiaremos algunos nombres y comentaremos algunas partes del código para que a la hora de que un técnico tenga que refactorizar o añadirle algo pueda serle más facil de encontrar algunas partes y entender mejor el código y la estructura.
+
 ## Licencias
 
 ### Visual Studio Code
