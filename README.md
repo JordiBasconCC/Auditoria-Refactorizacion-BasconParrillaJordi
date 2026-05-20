@@ -78,7 +78,9 @@ Comenzando con la refactorización, en la carpeta /html existe un archivo llamad
 
 [Ver Archivo](/html/webAntes.html)
 
-Para comenzar con la refactorización de la web de SmokedBurguer se optimizarán las imagenes ya que se encuentran en jpg, siendo un formato pésimo para web, se convertirán en .webp para así ser menos pesadas y mejores para la web. Además de esto se añadirá la carga lenta de las propias imágenes para que únicamente se carguen las imágenes visibles en ese momento en la web.
+Para con la refactorización de la web de SmokedBurguer se separará el código css del html principal en dos archivos diferentes para disminuir la carga de la web.
+
+Siguiendo con ello se optimizarán las imagenes ya que se encuentran en jpg, siendo un formato pésimo para web, se convertirán en .webp para así ser menos pesadas y mejores para la web. Además de esto se añadirá la carga lenta de las propias imágenes para que únicamente se carguen las imágenes visibles en ese momento en la web.
 
 Existen partes del código que en ningún momento se utilizan o que pueden ser sustituidas por alguna opción menos pesada para aumentar la velocidad de la web. Para ello el código ha sido revisado por completo y se ha ido eliminando todas estas funciones inservibles o ineficientes.
 
