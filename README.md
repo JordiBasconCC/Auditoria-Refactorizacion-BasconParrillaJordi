@@ -76,7 +76,7 @@ Como dice la paradoja de Jevons, al optimizar la web y cargar mucho más rápido
 
 Comenzando con la refactorización, en la carpeta /html existe un archivo llamado "webAntes.html" donde se puede ver el código de la web tal y como se encuentra justo antes de comenzar la refactorización.
 
-[Ir a mi carpeta](/html/webAntes.html)
+[Ver Archivo](/html/webAntes.html)
 
 
 ## Licencias
