@@ -2,6 +2,8 @@
 
 ## Fase 1: Inventario y Dimensión Ambiental (A)
 
+[** ENLACE A LA WEB DE SMOKEDBURGUER **]([html/refactorizado/webRefactorizada.html](https://smokedburger.es/)).
+
 Según la web [*Website Carbon Calculator*](https://www.websitecarbon.com/) , mi empresa elegida *(Smoked Burger Arahal)* está en la calificación de carbono **A**.
 
 <img width="534" height="218" alt="image" src="https://github.com/user-attachments/assets/d42d3d02-727d-4b60-960f-0e6666d98c7e" />
