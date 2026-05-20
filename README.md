@@ -101,3 +101,11 @@ Además incluyo algunas imagenes de la web a continuación para ver el resultado
 
 ### Visual Studio Code
 Visual Studio Code cuenta con una licencia MIT (licencia de software de codigo abierto más permisiva).
+
+### Citas
+
+S. SmokedBurguer, "Smoked Burguer", SmokedBurguer, . [Online]. Available: https://smokedburger.es/. [Accessed: 05-20-2026].
+
+W. Willman Acosta, "Refactorización", Willman Acosta, . [Online]. Available: https://docs.google.com/document/d/1G209kpkvMFlEUbU4CH87hF10F0nqILof_LzvSATLxz0/edit?tab=t.0#heading=h.nvj08m9tbkbp. [Accessed: 05-20-2026].
+
+W. Willman Acosta, "Refactorización", Willman Acosta, . [Online]. Available: https://docs.google.com/presentation/d/1q1MxN1yE7uEJoiqfQjaMLDGNsylx9sLR78S7YVA0CNM/edit?slide=id.p2#slide=id.p2. [Accessed: 05-20-2026].
