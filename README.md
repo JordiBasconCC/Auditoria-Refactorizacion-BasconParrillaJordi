@@ -1,4 +1,4 @@
-# Auditoria ASG y Refactorizacion Sostenible
+<img width="1459" height="573" alt="image" src="https://github.com/user-attachments/assets/f79595d3-e261-4c7d-804b-a29ef223231a" /># Auditoria ASG y Refactorizacion Sostenible
 
 ## Fase 1: Inventario y Dimensión Ambiental (A)
 
@@ -89,6 +89,11 @@ Por ultimo cambiaremos el código para utilizar html semántico, mejorar la priv
 Comentar por ultimo que el código de la web ya venía bastante bien comentado y con nombres muy explicativos de cada parte del mismo, lo que ayuda mucho a los técnico a la refactorización y modificación del código.
 
 Para ver el código refactorizado pulse [aquí](/html/refactorizado/webRefactorizada.html)
+Además incluyo algunas imagenes de la web a continuación para ver el resultado final:
+
+<img width="830" height="531" alt="image" src="https://github.com/user-attachments/assets/808d52ba-1e39-4f9a-a5a0-af9def81e63c" />
+<img width="1433" height="549" alt="image" src="https://github.com/user-attachments/assets/423400cc-7c97-4820-a76b-23dda1a2772c" />
+<img width="1459" height="573" alt="image" src="https://github.com/user-attachments/assets/3a5ea3dc-a11d-47e9-a007-ed2244a7e38c" />
 
 ## Licencias
 
