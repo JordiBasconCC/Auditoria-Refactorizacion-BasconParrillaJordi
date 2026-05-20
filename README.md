@@ -88,7 +88,7 @@ Por ultimo cambiaremos el código para utilizar html semántico, mejorar la priv
 
 Comentar por ultimo que el código de la web ya venía bastante bien comentado y con nombres muy explicativos de cada parte del mismo, lo que ayuda mucho a los técnico a la refactorización y modificación del código.
 
-Para ver el código refactorizado pulse [aquí](/html/refactorizado/webAntes.html)
+Para ver el código refactorizado pulse [aquí](/html/refactorizado/webRefactorizada.html)
 
 ## Licencias
 
