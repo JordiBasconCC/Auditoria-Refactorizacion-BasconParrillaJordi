@@ -56,15 +56,15 @@ Entonces en este caso la web no pide ningún dato al usuario, cumpliendo perfect
 No nos quedaremos únicamente en encontrar errores de optimización y transparencia, debemos darles solución, por lo que a continuación dejo algunas propuestas:
 
 ### 1.- Optimización de los archivos
-> Como antes comenté las imágenes estaban en formato .jpg que no es el más adecuado para webs, así que todas las imágenes las convertiremos a WebP ya que ofrece una mayor compresión de los mismos archivos reduciendo así el peso de las imágenes entre un 25% y un 35% sin perder nada de calidad, con eso ofreceremos una mejor experiencia al usuario y daremos velocidad a la web (sobre todo se notará en dispositivos móviles).
-> Para los videos (como el que se vé nada más entrar a la web) utilizaremos MP4 con códec H.264 ya que tiene un gran equilibrio entre calidad y peso del archivo. Siendo compatible a nivel mundial con todos los navegadores.
+> Como se comentó antes, las imágenes estaban en formato .jpg que no es el más adecuado para webs, así que todas las imágenes las se convertirán a WebP ya que ofrece una mayor compresión de los mismos archivos reduciendo así el peso de las imágenes entre un 25% y un 35% sin perder nada de calidad, con eso se ofrece una mejor experiencia al usuario y se da velocidad a la web (sobre todo se notará en dispositivos móviles).
+> Para los videos (como el que se vé nada más entrar a la web) se utilizará MP4 con códec H.264 ya que tiene un gran equilibrio entre calidad y peso del archivo. Siendo compatible a nivel mundial con todos los navegadores.
 
-> En este caso, la web cuenta con numerosos recursos gráficos como imágenes o videos, entonces, para aliviar peso de la web, podríamos implementar Lazy Loading (carga lenta), la cual carga los archivos únicamente cuando son necesarios, mejorando el rendimiento de la web
+> En este caso, la web cuenta con numerosos recursos gráficos como imágenes o videos, entonces, para aliviar peso de la web, se podría implementar Lazy Loading (carga lenta), la cual carga los archivos únicamente cuando son necesarios, mejorando el rendimiento de la web
 
 
 ### Reducción de peticiones
 
-> En esta web se utiliza google analytics, lo cual eliminaría ya que si no analizas activamente el “tráfico” de la web. En el caso de necesitarlo podrías buscar otra opción más liviana como plausible.
+> En esta web se utiliza google analytics, lo cual se eliminaría ya que si no analizas activamente el “tráfico” de la web no es una herramienta que necesites en la web. En el caso de necesitarlo se podría buscar otra opción más liviana como plausible.
 
 > Además utiliza google fonts, que podría eliminarse fácilmente y utilizar css para dar el estilo necesario al texto.
 
